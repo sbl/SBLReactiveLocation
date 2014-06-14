@@ -1,6 +1,6 @@
 # SBLReactiveLocation
 
-A reactive wrapper around the `CLLocationManager` of CoreLocation. The implementation tries to
+A ReactiveCocoa based wrapper around the `CLLocationManager` of CoreLocation. The implementation tries to
 stay as close as possible to the original `CLLocationManager` implementation
 while exposing the updates that are traditionally handled by a
 `CLLocationManagerDelegate` as `RACSignals`.
