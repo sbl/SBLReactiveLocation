@@ -7,7 +7,7 @@
 
 #import <Foundation/Foundation.h>
 
-// thread safe data structure to keep track of subscriptions.
+// A private thread safe data structure to keep track of subscriptions.
 @interface SBLReactiveLocationSubscriberCount : NSObject
 
 // `incrementForKey` automatically creates a subscriber named `key` with a count of 1 if there is no such subscriber. Otherwise increment.

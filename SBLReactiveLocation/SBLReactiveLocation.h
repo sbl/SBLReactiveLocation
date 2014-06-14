@@ -47,6 +47,7 @@
 /**
  Returns a signal that automatically ranges for nearby beacons on first subscription.
 
+ @param region The region to range.
  @return A `RACSignal` that contains an `NSArray` of nearby `CLBeacons` in region.
  */
 - (RACSignal *)rangeBeaconsInRegion:(CLBeaconRegion *)region;
@@ -61,6 +62,7 @@
 /**
  Returns a signal signal with the current region state changes.
  
+ @param region The region to monitor
  @return A `RACSignal` of `CLRegionState`.
  */
 - (RACSignal *)determineStateForRegion:(CLRegion *)region;
@@ -68,6 +70,7 @@
 /**
  Sends next when entering a specified region.
  
+ @param region The region to monitor
  @return A `RACSignal` with the monitored region.
  */
 - (RACSignal *)monitorEnterRegion:(CLRegion *)region;
@@ -75,6 +78,7 @@
 /**
  Sends exit when exiting a specified region.
  
+ @param region The region to monitor
  @return A `RACSignal` with the monitored region.
  */
 - (RACSignal *)monitorExitRegion:(CLRegion *)region;
