@@ -1,5 +1,9 @@
 # SBLReactiveLocation
 
+[![Platform](http://img.shields.io/cocoapods/p/SBLReactiveLocation.svg?style=flat)](http://cocoadocs.org/docsets/SBLReactiveLocation)
+[![Version](http://img.shields.io/cocoapods/v/SBLReactiveLocation.svg?style=flat)](http://cocoadocs.org/docsets/SBLReactiveLocation)
+[![License](http://img.shields.io/cocoapods/l/SBLReactiveLocation.svg?style=flat)](http://cocoadocs.org/docsets/SBLReactiveLocation)
+
 A ReactiveCocoa based wrapper around the `CLLocationManager` of CoreLocation. The implementation tries to
 stay as close as possible to the original `CLLocationManager` implementation
 while exposing the updates that are traditionally handled by a
