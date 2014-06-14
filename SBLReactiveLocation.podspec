@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SBLReactiveLocation"
-  s.version      = "0.1.0"
+  s.version      = "0.1.1"
   s.summary      = "A reactive wrapper around the CLLocationManager"
 
   s.description  = <<-DESC
