@@ -1,5 +1,6 @@
 # SBLReactiveLocation
 
+[![Build Status](https://travis-ci.org/sbl/SBLReactiveLocation.svg?branch=master)](https://travis-ci.org/sbl/SBLReactiveLocation)
 [![Platform](http://img.shields.io/cocoapods/p/SBLReactiveLocation.svg?style=flat)](http://cocoadocs.org/docsets/SBLReactiveLocation)
 [![Version](http://img.shields.io/cocoapods/v/SBLReactiveLocation.svg?style=flat)](http://cocoadocs.org/docsets/SBLReactiveLocation)
 [![License](http://img.shields.io/cocoapods/l/SBLReactiveLocation.svg?style=flat)](http://cocoadocs.org/docsets/SBLReactiveLocation)
