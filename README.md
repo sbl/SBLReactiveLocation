@@ -39,7 +39,7 @@ e.g. for heading
 ## Contact
 
 - the issue tracker
-- [@bruitism](http://twitter.com/bruitism)
+- [@slumenta_](http://twitter.com/slumenta_)
 
 ## License
 
